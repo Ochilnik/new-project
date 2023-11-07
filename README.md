@@ -27,5 +27,3 @@ To create a development branch:
 3. Click 'Create branch'.
 
 You now have a development branch where you can work on new features without affecting the main branch.
-
-Happy coding!
